@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "8251A")(type "Legacy")(uri "${CUSTOM_RAC1}/Intel/8251A.lib")(options "")(descr ""))
+)
